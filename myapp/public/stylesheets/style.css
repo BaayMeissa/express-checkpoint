@@ -4,8 +4,19 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+header span{
+  background-color: black;
+  border-radius: 10%;
+}
+
 a {
-  color: #00B7FF;
+  color: black;
+  font-size: 17px;
+}
+
+a:hover{
+  text-decoration: underline;
+  font-size: 17.5px;
 }
 header h1{
   color: rgb(255, 255, 255);
